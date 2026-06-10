@@ -35,6 +35,19 @@ You can also use the default import:
 import RichText from "ee-richtext";
 ```
 
+## Editor Preview
+
+The editor includes text formatting, headings, lists, colors, alignment, links, images, tables, and responsive controls.
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/EesaraMegasooriya/ee-richtext/main/assets/editor-ui.png"
+    alt="ee-richtext editor interface"
+    width="900"
+  />
+</p>
+
+
 ## Simple mode
 
 ```jsx

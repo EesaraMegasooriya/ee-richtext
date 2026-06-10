@@ -1,6 +1,6 @@
 {
   "name": "ee-richtext",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A responsive and customizable rich text editor for React",
   "type": "module",
   "main": "./dist/ee-richtext.js",

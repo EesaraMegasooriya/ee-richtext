@@ -12,8 +12,9 @@
     }
   },
   "files": [
-    "dist"
-  ],
+  "dist",
+  "assets"
+],
   "scripts": {
     "build": "vite build",
     "prepack": "npm run build"

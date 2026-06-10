@@ -57,6 +57,27 @@ import RichText from "ee-richtext";
 />
 ```
 
+
+## Usage Example
+
+```jsx
+<RichText
+  value={content}
+  onChange={setContent}
+  placeholder="Start writing..."
+  links={false}
+/>
+```
+
+<p align="center">
+  <img
+    src="./assets/usage-example.png"
+    alt="ee-richtext usage example"
+    width="558"
+  />
+</p>
+
+
 ## Props
 
 | Prop | Type | Default | Description |

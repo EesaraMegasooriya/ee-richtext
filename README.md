@@ -69,9 +69,9 @@ import RichText from "ee-richtext";
 />
 ```
 
-<p align="center">
+<<p align="center">
   <img
-    src="./assets/usage-example.png"
+    src="https://raw.githubusercontent.com/EesaraMegasooriya/ee-richtext/main/assets/usage-example.png"
     alt="ee-richtext usage example"
     width="558"
   />

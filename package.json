@@ -1,0 +1,41 @@
+{
+  "name": "ee-richtext",
+  "version": "0.1.0",
+  "description": "A responsive and customizable rich text editor for React",
+  "type": "module",
+  "main": "./dist/ee-richtext.js",
+  "module": "./dist/ee-richtext.js",
+  "exports": {
+    ".": {
+      "import": "./dist/ee-richtext.js",
+      "default": "./dist/ee-richtext.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "vite build",
+    "prepack": "npm run build"
+  },
+  "keywords": [
+    "react",
+    "rich-text",
+    "rich-text-editor",
+    "wysiwyg",
+    "editor",
+    "contenteditable"
+  ],
+  "author": "Eesara",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=18.2.0",
+    "react-dom": ">=18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "vite": "latest"
+  }
+}
